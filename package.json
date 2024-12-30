@@ -1,0 +1,15 @@
+{
+  "name": "goit-js-hw-4",
+  "version": "1.0.0",
+  "description": "do homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "v1ky",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
